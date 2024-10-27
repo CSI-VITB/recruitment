@@ -61,7 +61,7 @@ export default function Home() {
 />
 
 
-        <div className="font-bold text-3xl md:text-5xl text-center w-full mb-4 pt-60">
+        <div className="font-bold text-4xl md:text-6xl text-center w-full mb-4 pt-60">
           CSI Student Chapter
         </div>
         <div className="text-center font-semibold text-lg md:text-xl w-full">
@@ -87,7 +87,7 @@ export default function Home() {
           University is looking for enthusiastic, driven individuals to join our
           dynamic teams. <br /> <br />
           <Highlight className="text-black dark:text-white md:text-3xl pr-4 pl-4">
-            Our mission: Create. Innovate. Transform.
+            Create. Innovate. Transform.
           </Highlight>
         </motion.h1>
         <div className="pb-40">
@@ -119,13 +119,13 @@ export default function Home() {
                 <FaLinkedin size={24} />
               </a>
             </div>
-            <p className="mb-4">Contact us: csi@vitbhopal.ac.in</p>
             <div className="font-bold text-lg">Faculty Coordinator:</div>
             <div className="mt-2 pb-5">
               <p>Dr. K Murugeswari</p>
             </div>
             <div className="font-bold text-lg">Student Coordinators:</div>
             <div className="mt-2 pb-5">
+              <p>Aayushman Arora - (President) </p>
               <p>Pratham Goyal - +91 82934 65263</p>
               <p>Spandan Kumar Sahoo - +91 76090 24708</p>
             </div>
